@@ -1,0 +1,10 @@
+hi
+this is my first msg to be sent to git hub
+by using the folling commands
+1. git init for iniliziling to the git hub
+2. create file and list the files present in the directory
+3. add contents in it
+4. commit the first commit to save the data in it.
+5. push the file in the git hub by using the push command.
+6. git push -u origin main
+
